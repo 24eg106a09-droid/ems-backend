@@ -1,0 +1,1 @@
+-- Sample data is inserted automatically by the application through the README setup instructions.
